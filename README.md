@@ -1,3 +1,5 @@
+This repository has been modified and improved with the documentation below. Please see the original below.
+
 # BioCPPNet: Automatic Bioacoustic Source Separation with Deep Neural Networks
 
 ![title](Assets/Figure1.png)
